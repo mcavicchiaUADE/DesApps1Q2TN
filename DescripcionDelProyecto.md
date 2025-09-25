@@ -6,4 +6,4 @@ El público objetivo está compuesto por consumidores argentinos de todas las ed
   Elementos del Proyecto:
 - Tablero de Trello: https://trello.com/b/EFiCnmGg/trabajo-practico-dearrollo-de-app-i 
 - Diagrama de entidades: https://lucid.app/lucidchart/cfcd7e75-e37a-4c52-be07-f25944ecfa3e/edit?viewport_loc=464%2C42%2C3718%2C1762%2CHWEp-vi-RSFO&invitationId=inv_db210499-e6e6-4df4-ba9e-51b241d847ff 
-- Figma: https://www.figma.com/design/xbknYFzk8bFpVWIMyASf29/Untitled?node-id=0-1&p=f&t=nOR92pDZWkJLw44F-0 
+- Figma: https://www.figma.com/design/xbknYFzk8bFpVWIMyASf29/TPO-1%C2%B0-entrega---Desarrollo-de-Aplicaciones-II?node-id=0-1&t=gDscCo1P8zMVKQvt-1
